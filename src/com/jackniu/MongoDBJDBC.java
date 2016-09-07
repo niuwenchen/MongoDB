@@ -13,7 +13,10 @@ import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
 
+/*@Author  JackNiu
+*/
 public class MongoDBJDBC {
+
 
 	public static void main(String[] args) {
 		
